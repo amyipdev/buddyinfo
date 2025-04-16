@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
-
+// hello
 #[cfg(not(target_os = "linux"))]
 compile_error!("This script must target Linux systems.");
 
